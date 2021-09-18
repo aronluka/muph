@@ -1,4 +1,4 @@
-package com.android.muph.ui.notifications
+package com.android.muph.ui.about
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
